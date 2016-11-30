@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AsyncImageLoadingInListView</string>
+    <array name="images_urls">
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+        <item>http://7oom.ru/wp-content/uploads/foto-priroda-23.jpg</item>
+    </array>
+</resources>
